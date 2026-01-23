@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+torch
+networkx
+rdkit
+ipykernel
+jupyter
